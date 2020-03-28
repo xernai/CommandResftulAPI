@@ -1,4 +1,4 @@
-namespace CommandRestulAPI.Models
+namespace CommandRestfulAPI.Models
 {
     public class Command 
     { 

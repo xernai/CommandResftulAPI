@@ -1,7 +1,7 @@
-using CommandRestulAPI.Models;
+using CommandRestfulAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace CommandAzureAPI.Models
+namespace CommandRestfulAPI.Models
 {
     public class CommandContext : DbContext
     {
