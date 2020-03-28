@@ -10,12 +10,9 @@ namespace CommandRestulAPI.Controllers
     public class CommandsController : ControllerBase
     {
         private readonly CommandContext _context; 
-
         public CommandsController(CommandContext context) 
         { 
-
             _context = context; 
-
         } 
 
         [HttpGet] 
@@ -57,7 +54,7 @@ namespace CommandRestulAPI.Controllers
         public ActionResult<Command> PostCommandItem(Command command) 
         { 
             _context.CommandItems.Add(command); 
-            _context.SaveChanges(); 
+            _context.SaveChanges(); // importante para el UPDATE
 
             return CreatedAtAction("GetCommandItem", new Command{Id = command.Id}, command); 
         } 
@@ -76,22 +73,17 @@ namespace CommandRestulAPI.Controllers
             return NoContent(); 
         } 
 
-
         // [HttpGet]
         // public ActionResult<IEnumerable<string>> Auladiser()
         // {
         //     string[] elements = { "Hola", "Auladiser" };
-
         //     return elements;
         // }
-
-
 
         // [HttpGet("{id}")]
         // public ActionResult<IEnumerable<int>> Auladiser(int id)
         // {
         //     int[] elements = {1, 2 };
-
         //     return elements;
         // }
     }
