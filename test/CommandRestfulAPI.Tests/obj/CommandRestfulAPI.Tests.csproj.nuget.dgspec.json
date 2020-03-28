@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj": {}
+    "C:\\Demos\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\CommandRestfulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj": {
+    "C:\\Demos\\CommandRestfulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\CommandRestfulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj",
+        "projectUniqueName": "C:\\Demos\\CommandRestfulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj",
         "projectName": "CommandRestfulAPI",
-        "projectPath": "C:\\Dev\\CommandRestfulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj",
+        "projectPath": "C:\\Demos\\CommandRestfulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj",
         "packagesPath": "C:\\Users\\Xabier\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\CommandRestfulAPI\\src\\CommandRestfulAPI\\obj\\",
+        "outputPath": "C:\\Demos\\CommandRestfulAPI\\src\\CommandRestfulAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Dev\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj": {
+    "C:\\Demos\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
+        "projectUniqueName": "C:\\Demos\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
         "projectName": "CommandRestfulAPI.Tests",
-        "projectPath": "C:\\Dev\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
+        "projectPath": "C:\\Demos\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
         "packagesPath": "C:\\Users\\Xabier\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\obj\\",
+        "outputPath": "C:\\Demos\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -114,8 +114,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Dev\\CommandRestfulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj": {
-                "projectPath": "C:\\Dev\\CommandRestfulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj"
+              "C:\\Demos\\CommandRestfulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj": {
+                "projectPath": "C:\\Demos\\CommandRestfulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj"
               }
             }
           }
@@ -157,9 +157,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

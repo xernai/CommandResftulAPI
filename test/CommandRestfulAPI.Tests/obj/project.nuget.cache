@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WflCPyhp6UnDswFMoVE5aqEBhQ31u7bHEiCcsZU8iw39yJ3U4q0n7Hpm8A3V3bCr/Cc8j8hfPw5ltGRlWfvwGQ==",
+  "dgSpecHash": "xwnB3d/MHkNn2fMsoD7NMmzksi5Zf82jQS6zWL1FdE2Me63Tnbq870WvN4N2AQQatEat66+INDelHIf4AAE+Gw==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
+  "projectFilePath": "C:\\Demos\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Xabier\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Xabier\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
