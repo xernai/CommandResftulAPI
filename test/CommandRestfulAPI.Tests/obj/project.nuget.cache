@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xwnB3d/MHkNn2fMsoD7NMmzksi5Zf82jQS6zWL1FdE2Me63Tnbq870WvN4N2AQQatEat66+INDelHIf4AAE+Gw==",
+  "dgSpecHash": "lOtJH/NiZZV9HFG/TuYG4md5Rq0uAVOHEr+a7PjFgDzlw6Xwi/W2u+9U+HI0ghWjLPfEkbECVmeneqcr8F4JXQ==",
   "success": true,
   "projectFilePath": "C:\\Demos\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
   "expectedPackageFiles": [

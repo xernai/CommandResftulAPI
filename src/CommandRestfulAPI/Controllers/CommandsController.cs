@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 
-namespace CommandRestulAPI.Controllers
+namespace CommandRestfulAPI.Controllers
 {
     /// <resumen>
     /// Endpoints
