@@ -8054,11 +8054,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Demos\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
+      "projectUniqueName": "C:\\Azure\\CommandResftulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
       "projectName": "CommandRestfulAPI.Tests",
-      "projectPath": "C:\\Demos\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
+      "projectPath": "C:\\Azure\\CommandResftulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
       "packagesPath": "C:\\Users\\Xabier\\.nuget\\packages\\",
-      "outputPath": "C:\\Demos\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\obj\\",
+      "outputPath": "C:\\Azure\\CommandResftulAPI\\test\\CommandRestfulAPI.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -8080,8 +8080,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Demos\\CommandRestfulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj": {
-              "projectPath": "C:\\Demos\\CommandRestfulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj"
+            "C:\\Azure\\CommandResftulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj": {
+              "projectPath": "C:\\Azure\\CommandResftulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj"
             }
           }
         }
@@ -8122,6 +8122,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -8130,7 +8136,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

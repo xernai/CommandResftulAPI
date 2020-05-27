@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lOtJH/NiZZV9HFG/TuYG4md5Rq0uAVOHEr+a7PjFgDzlw6Xwi/W2u+9U+HI0ghWjLPfEkbECVmeneqcr8F4JXQ==",
+  "dgSpecHash": "M3jx043noX0XshwXhmT2//yfmpkEoieyRxp1thbHg/mpR/uIaAetM/+6bJQwDPqSCp66PkeJz34r+oA00W+Y+Q==",
   "success": true,
-  "projectFilePath": "C:\\Demos\\CommandRestfulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
+  "projectFilePath": "C:\\Azure\\CommandResftulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Xabier\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Xabier\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
@@ -139,7 +139,8 @@
     "C:\\Users\\Xabier\\.nuget\\packages\\xunit.core\\2.4.0\\xunit.core.2.4.0.nupkg.sha512",
     "C:\\Users\\Xabier\\.nuget\\packages\\xunit.extensibility.core\\2.4.0\\xunit.extensibility.core.2.4.0.nupkg.sha512",
     "C:\\Users\\Xabier\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512",
-    "C:\\Users\\Xabier\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512"
+    "C:\\Users\\Xabier\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512",
+    "C:\\Users\\Xabier\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }
