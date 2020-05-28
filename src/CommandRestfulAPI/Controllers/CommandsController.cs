@@ -19,6 +19,10 @@ namespace CommandRestfulAPI.Controllers
             _context = context;
         }
 
+        /// <summary>
+        /// //Get all items from table
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         public ActionResult<IEnumerable<Command>> GetCommandItems()
         {
