@@ -4319,7 +4319,7 @@
       ]
     },
     "System.Diagnostics.TextWriterTraceListener/4.0.0": {
-      "sha512": "oRsXCz76GDDMrwjMjH6keR9erFIofhGaIMc2d4NykI4rdBEuUP5ZswYA30LGPdyCK7DV4bMBEJL3nJFyAJoS/g==",
+      "sha512": "w36Dr8yKy8xP150qPANe7Td+/zOI3G62ImRcHDIEW+oUXUuTKZHd4DHmqRx5+x8RXd85v3tXd1uhNTfsr+yxjA==",
       "type": "package",
       "path": "system.diagnostics.textwritertracelistener/4.0.0",
       "files": [
@@ -7855,7 +7855,7 @@
       ]
     },
     "System.Xml.XPath.XmlDocument/4.0.1": {
-      "sha512": "gQQaCNO5FYxD37SNQvE+yZUNfCt/Y+FgCnead3hu37RsUiwy2cxqRDWPv+Ee+6DlOeV47xaSYYZ6GQW4EhoEXQ==",
+      "sha512": "Zm2BdeanuncYs3NhCj4c9e1x3EXFzFBVv2wPEc/Dj4ZbI9R8ecLSR5frAsx4zJCPBtKQreQ7Q/KxJEohJZbfzA==",
       "type": "package",
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "files": [
@@ -8047,41 +8047,33 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Xabier\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Xabier\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Azure\\CommandResftulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
+      "projectUniqueName": "C:\\Demos\\CommandResftulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
       "projectName": "CommandRestfulAPI.Tests",
-      "projectPath": "C:\\Azure\\CommandResftulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
+      "projectPath": "C:\\Demos\\CommandResftulAPI\\test\\CommandRestfulAPI.Tests\\CommandRestfulAPI.Tests.csproj",
       "packagesPath": "C:\\Users\\Xabier\\.nuget\\packages\\",
-      "outputPath": "C:\\Azure\\CommandResftulAPI\\test\\CommandRestfulAPI.Tests\\obj\\",
+      "outputPath": "C:\\Demos\\CommandResftulAPI\\test\\CommandRestfulAPI.Tests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\Xabier\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://www.nuget.org/api/v2/": {},
-        "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Azure\\CommandResftulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj": {
-              "projectPath": "C:\\Azure\\CommandResftulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj"
+            "C:\\Demos\\CommandResftulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj": {
+              "projectPath": "C:\\Demos\\CommandResftulAPI\\src\\CommandRestfulAPI\\CommandRestfulAPI.csproj"
             }
           }
         }

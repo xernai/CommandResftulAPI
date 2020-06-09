@@ -42,6 +42,11 @@ namespace CommandRestfulAPI.Controllers
             return commandItem;
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpDelete("{id}")]
         public ActionResult<Command> DeleteCommandItem(int id)
         {
